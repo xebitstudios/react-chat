@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+        "title":"Getting Started",
+        "timestamp":"Today",
+        "messages":[
+            {
+                "id":1754573440175,
+                "text":"what is the capital of ontario",
+                "sender":"human",
+                "timestamp":"9:30:40 AM"
+            },
+            {
+                "id":1754573448920,
+                "text":"The capital of Ontario is Toronto. Toronto is not only the capital but also the largest city in Ontario and one of the largest cities in Canada.",
+                "sender":"ai",
+                "timestamp":"9:30:48 AM"
+            },
+            {
+                "id":1754573460477,
+                "text":"what is the population",
+                "sender":"human",
+                "timestamp":"9:31:00 AM"
+            },
+            {
+                "id":1754573463093,
+                "text":"I'd be happy to help you find population information, but I need more context to give you an accurate answer. Could you please specify:\n\n- What country, city, or region you're asking about?\n- What time period you're interested in (current population, historical population, etc.)?\n\nFor example:\n- \"What is the population of the United States?\"\n- \"What is the population of Tokyo?\"\n- \"What was the population of Earth in 2023?\"\n\nOnce you provide that information, I can give you the most relevant and up-to-date population data.",
+                "sender":"ai",
+                "timestamp":"9:31:03 AM"
+            },
+            {
+                "id":1754573539467,
+                "text":"what is the population of ontario",
+                "sender":"human",
+                "timestamp":"9:32:19 AM"
+            },
+            {
+                "id":1754573541902,
+                "text":"As of 2023, Ontario's population is approximately 14.7 million people. Ontario is Canada's most populous province and home to about 38% of the country's total population.\n\nThe province's population has been steadily growing over the years, with significant immigration contributing to this growth. Toronto, the provincial capital, is by far the largest city in Ontario and contains a substantial portion of the province's population.\n\nThese figures are approximate and can vary slightly depending on the source and exact date of measurement.",
+                "sender":"ai",
+                "timestamp":"9:32:21 AM"
+            }
+        ]
+    }
+]
